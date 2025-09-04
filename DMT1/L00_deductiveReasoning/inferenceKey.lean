@@ -175,7 +175,7 @@ mathematics.
 When we say that a binary operation, such as ∧, commutes,
 or is commutative, we mean that changing the order of the
 operands never changes the meaning of an expression. Here,
-we nean that for any proposition, P, Q, if you have a proof
+we mean that for any proposition, P, Q, if you have a proof
 that shows P ∧ Q is true you can always convert it into one
 showing Q ∧ P is true. In short P ∧ Q → Q ∧ P (and it works
 in the other direction, too.)

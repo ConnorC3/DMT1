@@ -56,7 +56,7 @@ In Lean, propositions are terns (objects, values), too,
 so we can give propositions names, too. Here, we bind the
 name *PandQ* to the proposition, P ∧ Q, as its value. We
 then use #reduce to evaluate *PandQ* to it's meaning, with
-a mysterious bit of syntax intructs Lean to reduce names
+a mysterious bit of syntax instructs Lean to reduce names
 for propositions into the propositions they name. Later
 we'll see that propositions are types in Lean, at which
 point the inscrutibility of this little snippet of code
